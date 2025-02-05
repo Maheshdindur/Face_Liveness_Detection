@@ -17,7 +17,6 @@ This project implements a **real-time face liveness detection system** that capt
 ## 📂 **Project Structure**  
 
 📁 **Face-Liveness-Detection**  
-├── 📂 **dataset**             # Training dataset  
 ├── 📂 **models**              # Trained ML model  
 ├── 📄 **README.md**           # Project documentation  
 ├── 📜 **requirements.txt**    # Required dependencies  
