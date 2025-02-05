@@ -33,7 +33,7 @@ This project implements a **real-time face liveness detection system** that capt
 You can watch the demo video below:
 
 <video width="320" height="240" controls>
-  <source src="https://github.comMaheshdindur/Face_Liveness_Detection/blob/main/assets/demo.mp4?raw=true" type="video/mp4">
+  <source src="https://github.comMaheshdindur/Face_Liveness_Detection/blob/main/assets/VID_20250205125201.mp4?raw=true" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
