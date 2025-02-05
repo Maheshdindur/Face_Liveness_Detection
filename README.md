@@ -31,8 +31,9 @@ This project implements a **real-time face liveness detection system** that capt
 - **The result is displayed directly in the camera interface.**
 ## **📸 Demo**
 **You can watch the demo video below**
-<video width="320" height="240" controls>
-  <source src="https://github.comMaheshdindur/Face_Liveness_Detection/blob/main/assets/VID_20250205125201.mp4?raw=true" type="video/mp4">
+<video width="600" controls>
+  <source src="https://github.com/Maheshdindur/Face_Liveness_Detection/raw/main/VID_20250205125201.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 
