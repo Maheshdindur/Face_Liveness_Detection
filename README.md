@@ -24,9 +24,10 @@ This project implements a **real-time face liveness detection system** that capt
 └── 🎥 **liveness_net.py**      # Real-time detection script  
 
 
-## **📌 How It Works
+## **📌 How It Works**
 - **The system captures live frames from the webcam.**
 - **It processes the frame and extracts features.**
 - **A trained machine learning model classifies the face as real or spoof.**
 - **The result is displayed directly in the camera interface.**
-## **📸 Demo
+## **📸 Demo**
+
