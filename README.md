@@ -14,14 +14,16 @@ This project implements a **real-time face liveness detection system** that capt
 - **TensorFlow/Keras** 🤖 (for model training)  
 - **Scikit-learn** 📊 (for feature extraction & classification)  
 
-## **📂 Project Structure**  
-📁 Face-Liveness-Detection
-│── 📂 dataset # Training dataset
-│── 📂 models # Trained ML model
-│── 📄 README.md # Project documentation
-│── 📜 requirements.txt # Required dependencies
-│── 🖥️ Face_Antispoofing.ipynb # Main script to run detection
-│── 🎥 liveness_net.py # Real-time detection script
+## 📂 **Project Structure**  
+
+📁 **Face-Liveness-Detection**  
+├── 📂 **dataset**             # Training dataset  
+├── 📂 **models**              # Trained ML model  
+├── 📄 **README.md**           # Project documentation  
+├── 📜 **requirements.txt**    # Required dependencies  
+├── 💻 **Face_Antispoofing.ipynb**   # Main script to run detection  
+└── 🎥 **liveness_net.py**      # Real-time detection script  
+
 
 ## **📌 How It Works
 - **The system captures live frames from the webcam.**
